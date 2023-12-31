@@ -1,4 +1,5 @@
 # NBA-Investment-Strategy-with-Machine-Learning
+![NBA-Trading-Cards-Boom](https://github.com/rushilnakk/NBA-Investment-Strategy-with-Machine-Learning/assets/78556727/852c01d1-b911-43b4-bba8-e76d2e5733ab)
 Performed binary classification of NBA players to predict future Hall of Fame inductees for a memorabilia investment strategy in Python.
 
 # Business Problem
